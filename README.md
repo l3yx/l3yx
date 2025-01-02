@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3yx&hide=html,css,javascript)
 <img src="https://skillicons.dev/icons?i=java,androidstudio,c,cpp,cs,bash,css&theme=light" />
 <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
 
