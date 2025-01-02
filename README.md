@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**l3yx/l3yx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=java,androidstudio,c,cpp,cs,bash,css&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
 
 Here are some ideas to get you started:
 
